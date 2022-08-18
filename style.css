@@ -1,0 +1,13 @@
+.body{
+    background-color: darkgray;
+}
+
+h1{
+    color: teal;
+    border: 3px teal solid;
+    font-size: 5em;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+    font-family: sans-serif;
+}
